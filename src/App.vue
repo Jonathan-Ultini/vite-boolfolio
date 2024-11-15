@@ -15,6 +15,12 @@
             <li class="nav-item">
               <router-link to="/projects" class="nav-link" active-class="active">Progetti</router-link>
             </li>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/types">Tipologie</router-link>
+            </li>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/technologies">Tecnologie</router-link>
+            </li>
           </ul>
         </div>
       </div>
